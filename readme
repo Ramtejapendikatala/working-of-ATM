@@ -1,0 +1,11 @@
+Working of atm
+1.enter the user id if it exists the it asks password or else exit from program
+2.user enter the password correctly then displays the menu or else 2 more chances if it is again wrong, then 1 more chance if it is wrong now then account get blocked
+3.withdraw deposit checkbalance change passward are the choices for the user
+4.withdraw : asks the amount of money you want if your account has that money then asks the pin if it is correct then you can collect the cash ,if pin is wrong end of program
+the amount entered is not there in your bank account then it displays insufficient balance.
+5.Deposit: asks the amount of money to deposit in your account enter the pin if correct add money,if pin is wrong end program.
+6.check balance: enter the pin your balance is displayed.
+7.change password: enter the pin,check the instuctions to create password (password must contain 8 letters in that it must contain a capital letter ,small letter ,
+a number and a special character) if password contain all these then it is a strong password then confirm the password then the password updates.
+the program tells what is missing if your password is weak and gives the instructions to make it strong
